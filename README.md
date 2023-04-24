@@ -19,7 +19,7 @@
 
 ### Screenshot
 
-![](./design/Desktop-design.png.png)
+![](./design/Desktop-design.png)
 
 
 ## Meu processo
